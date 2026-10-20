@@ -1,5 +1,8 @@
 # Memento Mori Clock for Omarchy
 
+> **Antara Wasteland migration (2026-10-20; provisional):** Cross-repo operators should consult the [shared GitHub contract](https://github.com/antara-wasteland/.github-private/blob/feat/github-operating-contract/docs/github-operating-contract.md), [Trajectory unification #88](https://github.com/antara-wasteland/trajectory/issues/88), and [Alchemy Discussion #86](https://github.com/antara-wasteland/trajectory/discussions/86). Existing [Project Vision](https://github.com/orgs/antara-wasteland/projects/2) is the Harness Engineering research program. Local operations retain authority until Linear migration and SEED reconciliation are verified.
+
+
 A quiet, local Four Thousand Weeks view hidden inside Omarchy's familiar
 clock and calendar.
 
